@@ -1,1 +1,3 @@
-# classifier_methods2
+# Tweet Classifier
+
+Culminating project for Methods2.
